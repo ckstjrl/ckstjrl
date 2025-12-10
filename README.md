@@ -87,8 +87,10 @@
 전자전기공학 → Web / AI → Algorithm → C / C++ → Embedded Systems
 ```
 
-![ckstjrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckstjrl&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ckstjrl&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckstjrl&layout=compact&cache_seconds=1800"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckstjrl&layout=compact)
 
 
