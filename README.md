@@ -86,10 +86,9 @@
 ```text
 전자전기공학 → Web / AI → Algorithm → C / C++ → Embedded Systems
 ```
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username==ckstjrl&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==ckstjrl&layout=compact&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ckstjrl&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckstjrl&layout=compact&hide_border=true"/>
 </p>
 
 
