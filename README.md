@@ -88,7 +88,10 @@
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckstjrl&layout=compact&exclude_repo=SSAFY_prac&cache_seconds=86400&v=1)
+
 [![ckstjrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckstjrl)](https://github.com/ckstjrl/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ckstjrl&theme=default&cache_seconds=86400&v=1)
 
 
 
