@@ -1,5 +1,6 @@
 <h1 align="center">Embedded Software Engineer in Progress 🚀</h1>
 <p align="center">
+  ⚡ C/C++ · RTOS · Embedded Linux<br/>
   전자·소프트웨어 기반을 바탕으로<br/>
   임베디드 시스템 영역으로 성장 중인 개발자 <b>ckstjrl</b>입니다
 </p>
@@ -60,8 +61,17 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
+
+### ⚙ Embedded Systems
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat"/>
+  <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 ### 🌐 Web
@@ -79,6 +89,15 @@
   <img src="https://img.shields.io/badge/AI%20%26%20Data-Python-blue"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+</p>
+
+### 🧰 Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 </p>
 
 ---
@@ -99,17 +118,23 @@
 
 ## 🚀 Career Direction
 
-```text
-전자전기공학 전공 기반
-→ Web/AI 개발 및 Algorithm 경험 보유
-→ 현재 C/C++ 임베디드 시스템 집중
-```
+> 전자전기공학 기반  
+> → Web · AI 프로젝트 경험  
+> → 현재 C/C++ 기반 임베디드 시스템 집중  
+> → Embedded Linux 확장 학습 중
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckstjrl&layout=compact&exclude_repo=SSAFY_prac&cache_seconds=86400&v=1)
+---
 
-[![ckstjrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckstjrl)](https://github.com/ckstjrl/github-readme-stats)
+## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ckstjrl&theme=default&cache_seconds=86400&v=1)
+<p align="center">
+  <img src="https://github-readme-stats-three-dusky-56.vercel.app/api?username=ckstjrl&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats-three-dusky-56.vercel.app/api/top-langs/?username=ckstjrl&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&exclude_repo=SSAFY_prac" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ckstjrl&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
 
 
 
