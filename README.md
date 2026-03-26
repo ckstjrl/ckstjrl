@@ -106,7 +106,7 @@
 
 <p>
   <a href="https://www.acmicpc.net/user/PCS0401">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=PCS0401"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=pcs0401"/>
     <img src="http://mazandi.herokuapp.com/api?handle=pcs0401&theme=dark"/>
   </a>
 </p>
