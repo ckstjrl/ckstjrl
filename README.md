@@ -129,12 +129,12 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-three-dusky-56.vercel.app/api?username=ckstjrl&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats-three-dusky-56.vercel.app/api?username=tndhksl&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
   <img src="https://github-readme-stats-three-dusky-56.vercel.app/api/top-langs/?username=ckstjrl&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&exclude_repo=SSAFY_prac" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ckstjrl&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tndhksl&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
 
